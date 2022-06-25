@@ -3,6 +3,7 @@
 
 main(){
   echo "Testing Jenkins"
+  echo "Testing Jenkins Trigger"
 }
 
 main
